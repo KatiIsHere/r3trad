@@ -1,4 +1,4 @@
-[![Sal Hack logo(/src/main/resources/assets/salhack/imgs/SalHackWatermark.png)
+[![Sal Hack logo[(/src/main/resources/assets/salhack/imgs/SalHackWatermark.png)]
 
 [![Gradle Build](https://github.com/KatiIsHere/r3trad/workflows/Gradle%20Build/badge.svg?branch=master)](https://github.com/KatiIsHere/r3trad/actions)
 [![GitHub All Releases](https://img.shields.io/github/downloads/KatiIsHere/r3trad/total.svg)](https://github.com/KatiIsHere/r3trad/releases)
