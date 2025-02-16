@@ -1,15 +1,15 @@
 [![Sal Hack logo](/src/main/resources/assets/salhack/imgs/SalHackWatermark.png)]
 
-[![Gradle Build](https://github.com/CreepyOrb924/creepy-salhack/workflows/Gradle%20Build/badge.svg?branch=master)](https://github.com/ionar2/salhack/actions)
-[![GitHub All Releases](https://img.shields.io/github/downloads/CreepyOrb924/creepy-salhack/total.svg)](https://github.com/CreepyOrb924/creepy-salhack/releases)
+[![Gradle Build](https://github.com/KatiIsHere/r3trad/workflows/Gradle%20Build/badge.svg?branch=master)](https://github.com/KatiIsHere/r3trad/actions)
+[![GitHub All Releases](https://img.shields.io/github/downloads/KatiIsHere/r3trad/total.svg)](https://github.com/KatiIsHere/r3trad/releases)
 
-## Salhack
-Salhack is a Forge mod made by ionar. In 2021, ionar made the decision to leave the project, and as such, Creepy SalHack was born. 
+## r3trad
+r3trad is a creepy salhack fork made in 2024
 
  
 ## Installation
 
-Salhack is a forge mod for `1.12.2`. We provide already pre build jar files on our [release page](https://github.com/CreepyOrb924/creepy-salhack/releases). To use salhack just drop the jar file in your mods folder and start forge. Have fun!
+r3trad is a forge mod for `1.12.2`. to build the jar you can use an IDE like intellij or eclipse
 
 **Tip:** You can open the GUI containing all "tweaks" with your left arrow at default (You can change that later.)
 
@@ -23,16 +23,4 @@ Some of the code is pasted and proper credits are not given, but atleast it's op
 
 There is no git history because it contains personal info.
 
-Created by `ionar2` and many [others](https://github.com/ionar2/salhack/graphs/contributors). If you have any legal disagreements, please read [this](https://help.github.com/en/github/site-policy/guide-to-submitting-a-dmca-takedown-notice)
-
-## Updates in Creepy Branch
-
-Working on updating to **1.19.4**. 
-
-Deleted lots of useless mods.
-
-Added some stuff.
-
-Fixed some bugs.
-
-Check the [release page](https://github.com/CreepyOrb924/creepy-salhack/releases) to see updates in the project
+Created by `PolishKitKat`. If you have any legal disagreements, please read [this](https://help.github.com/en/github/site-policy/guide-to-submitting-a-dmca-takedown-notice)
